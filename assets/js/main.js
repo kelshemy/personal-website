@@ -9,7 +9,7 @@
 		index = (index + 1) % texts.length;
 	}
 		
-	setInterval(changeText, 2000); // Change text every 3 seconds
+	setInterval(changeText, 1000); 
 		
 
 	var	$window = $(window),
